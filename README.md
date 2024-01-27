@@ -27,8 +27,8 @@ Your new recipe page should have the following content:
 4. [x] Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
 ## Iteration 4: add more recipes
-1. Add two more recipes with identical page structures to the recipe page you’ve already created.
-2. Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+1. [x] Add two more recipes with identical page structures to the recipe page you’ve already created.
+2. [x] Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
 
 Example:
 
@@ -38,3 +38,5 @@ Example:
     <li><a href="recipes/yourrecipe.html">Recipe Title 3</a></li>
   </ul>
 Your links won’t be flashy, but for now just focus on building them out.
+
+Project complete and submitted on 27 January 2023. Hosted at https://fancyboy96.github.io/odin-recipes/
