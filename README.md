@@ -40,3 +40,5 @@ Example:
 Your links won’t be flashy, but for now just focus on building them out.
 
 NB: Project complete and submitted on 27 January 2023. Hosted at https://fancyboy96.github.io/odin-recipes/
+
+Even though Odin project is complete I am still going to maintain it and add recipes that I like :)
