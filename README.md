@@ -39,4 +39,4 @@ Example:
   </ul>
 Your links won’t be flashy, but for now just focus on building them out.
 
-Project complete and submitted on 27 January 2023. Hosted at https://fancyboy96.github.io/odin-recipes/
+NB: Project complete and submitted on 27 January 2023. Hosted at https://fancyboy96.github.io/odin-recipes/
