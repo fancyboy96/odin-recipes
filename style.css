@@ -14,3 +14,7 @@ body {
     font-weight: 100;
     padding: 25px;
 }
+
+li {
+    margin: 10px;
+}
