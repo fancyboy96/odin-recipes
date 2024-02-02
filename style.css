@@ -18,3 +18,13 @@ body {
 li {
     margin: 10px;
 }
+
+.header-text {
+    line-height: 60%;
+    display: inline;
+    padding-right: 30px;
+}
+
+.footer {
+    padding: 20px;
+}
